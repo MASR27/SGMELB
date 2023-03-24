@@ -27,7 +27,7 @@
 </style>
 
 <div class="menu">
-  <h2>ISO 10012:2003 Measurement Management System for a Gas Station</h2>
+  <h2>ISO 10012:2003 Sistema de Gestion de Medición</h2>
   <ul>
    <li>Planificación</li>
     <li>Desempeño</li>
